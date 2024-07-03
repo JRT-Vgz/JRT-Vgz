@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Backend development with Django**
-
-- 💬 Ask me about **Videogame development with Lua**
+- 💬 Ask me about **anything, I am happy to help**
 
 - 📫 How to reach me **jrtvgz@gmail.com**
 
