@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jrtvgz@gmail.com**
 
-- ⚡ What I like to do **I play drums and collect vintage stuff**
+- ⚡ I like **playing drums and collecting vintage stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
