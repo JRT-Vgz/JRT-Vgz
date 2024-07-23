@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cartuchada**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **C# & .NET**
 
 - 💬 Ask me about **Backend development with Django**
 
