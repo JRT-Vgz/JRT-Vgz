@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **C# & .NET**
 
-- 💬 Ask me about **Backend development with Django**
-
+<!--- 💬 Ask me about **Backend development** -->
 - 💬 Ask me about **Videogame development with Lua**
 
 - 📫 How to reach me **jrtvgz@gmail.com**
