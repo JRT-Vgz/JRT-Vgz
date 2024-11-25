@@ -1,41 +1,102 @@
-![MasterHead](https://drive.google.com/uc?id=1PpYZ5Y1bGDrt3tkiqIgjfRh7btz3YpuO)
-<h1 align="center">Hi 👋, I'm Javi Rojo</h1>
-<!-- <h3 align="center">A passionate Python and Back-End developer from Spain</h3> -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrt-vgz&label=Profile%20views&color=0e75b6&style=flat" alt="jrt-vgz" /> </p>
+<!-- CONTADOR DE VISITAS -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-- 🔭 I’m currently working on **Cartuchada**
 
-- 🌱 I’m currently learning **C# & .NET**
+<!-- ANIMACION SALUDO -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javier+Rojo!;" />
+</h1>
+<h3 align="center">Backend Developer</h3>
+    <p align="center" >
+        <img  src = "https://i.imgur.com/qGoqmSO.gif" width = 75%>
+    </p>
 
-<!--- 💬 Ask me about **Backend development** -->
-- 💬 Ask me about **Videogame development with Lua**
 
-- 📫 How to reach me **jrtvgz@gmail.com**
+<!-- VINCULO A EMAIL, LINKEDIN, PORTFOLIO -->
+<div align="center"> 
+  <a href="jrtvgz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/javier-rojo-tortajada/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+ <!-- <a href="https://anjana2k02.github.io/finalportfolio/" target="_blank"> -->
+ <!--    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  sqlite, safari, google-chrome are other good icon options -->
+ <!-- </a> -->
+</div>
+<br/>
 
-- ⚡ I like **playing drums and collecting vintage stuff**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/javier-rojo-tortajada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javi-rojo-99b6aa270" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
+<div align="center">
+    <table align="center">
+    <tr border="none">
+    <td width="50%" height="auto" align="left">   
+ </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrt-vgz&show_icons=true&locale=en&layout=compact" alt="jrt-vgz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrt-vgz&show_icons=true&locale=en" alt="jrt-vgz" /></p>
+<!-- LENGUAJES MAS USADOS -->     
+<div align="center">
+     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jrt-vgz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrt-vgz&" alt="jrt-vgz" /></p>
+
+<!-- ESTADISTICAS -->
+</td>
+    <td width="50%" align="center">
+
+ <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jrt-vgz&count_private=true&theme=react&border_radius=10" alt="jrt-vgz"/> 
+    
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=jrt-vgz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="jrt-vgz" />
+  <br/>
+  </div> 
+  </td>
+</tr>
+</table>
+
+
+<!-- CONTRIBUCIONES -->
+<div align="center">
+  <h2>My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/Anjana2k02/Anjana2k02/blob/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/><br/>
+</div>
+
+
+
+<!-- ICONOS -->
+ <hr/> 
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> 
+    <br/> 
+ <div align="center"> 
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,lua,mysql,mongodb,redis,git,postman" /> 
+ <!--     <h4 align="center"> Learning ! </h4> -->
+ <!--   <img src="https://skillicons.dev/icons?i=kotlin,java,swift,py,git" /><br> -->
+ </div> 
+ <hr/> 
+
+
+ <!-- ICONOS 2 -->
+<!--     <h2 align="center">⚒️ IDE Tools ⚒️</h2> -->
+<!--     <br/> -->
+<!-- <div align="center"> -->
+<!--    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,django,flask,fastapi,postman " /><br> -->
+<!--      <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai,xd,figma  " /><br><br> -->
+<!--          <h4>OS Expert In</h4> -->
+<!--      <img src="https://skillicons.dev/icons?i=windows,arch,kali,mint  " /> -->
+<!--           <br>-->
+<!-- </div> -->
+<!-- <br/> -->
+<!--    <hr/> -->
+
+
+<!-- QUIERO CAFE -->
+<div align="center">
+    <a href='https://ko-fi.com/anjana89719' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+    <br/>
