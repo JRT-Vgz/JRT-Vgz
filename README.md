@@ -6,7 +6,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javier+Rojo!;" />
 </h1>
-<h3 align="center">Backend Developer</h3>
+<h2 align="center">Backend Developer</h2>
     <p align="center" >
         <img  src = "https://i.imgur.com/qGoqmSO.gif" width = 75%>
     </p>
